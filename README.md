@@ -1,4 +1,4 @@
-# python
+# Python
 ## Comparison Between Python Generator vs Iterator
 Let’s see the difference between Iterators and Generators in python.
 
